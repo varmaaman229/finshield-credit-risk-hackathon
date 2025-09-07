@@ -45,3 +45,5 @@ The core of the solution is a predictive model that calculates the **Probability
 ### Post-Default Intelligence
 
 The project also includes a framework for **Ethical Contact Verification**, which reframes the "search and tracking" of defaulters as a professional and compliant intelligence-gathering process. This framework is designed to be fully compliant with regulatory guidelines, such as those from the Reserve Bank of India (RBI).
+![alt text](image.png)
+![alt text](image-1.png)
